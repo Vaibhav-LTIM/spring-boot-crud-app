@@ -5,14 +5,9 @@
   "price" : 1200.0
 }, {
   "id" : "2",
-  "name" : "Smartphone",
-  "description" : "A latest-generation smartphone with a large display and powerful camera.",
+  "name" : "Smartphone Updated",
+  "description" : "A latest-generation smartphone with a large display and powerful camera. Updated",
   "price" : 800.0
-}, {
-  "id" : "4",
-  "name" : "Smartwatch UPDATED",
-  "description" : "A smartwatch with fitness tracking and customizable watch faces UPDATED.",
-  "price" : 150.0
 }, {
   "id" : "5",
   "name" : "Tablet",
@@ -20,7 +15,12 @@
   "price" : 300.0
 }, {
   "id" : "7",
-  "name" : "iPhone",
-  "description" : "Applet phone.",
+  "name" : "iPhone Updated",
+  "description" : "Applet phone. Updated",
   "price" : 150000.0
+}, {
+  "id" : "3",
+  "name" : "One Plus Nord 3",
+  "description" : "Smartphone.",
+  "price" : 28000.0
 } ]
